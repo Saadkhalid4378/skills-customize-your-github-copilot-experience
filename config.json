@@ -65,6 +65,20 @@
       "description": "Build RESTful APIs with FastAPI, including endpoint design, validation, and documentation.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-07-15"
+    },
+    {
+      "id": "sqlite-python",
+      "title": "SQLite with Python",
+      "description": "Learn how to use SQLite with Python to store and manage data persistently.",
+      "path": "assignments/sqlite-python",
+      "dueDate": "2026-07-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
